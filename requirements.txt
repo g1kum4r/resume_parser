@@ -1,0 +1,8 @@
+Django==2.2.10
+django-crispy-forms==1.7.2
+pyresparser~=1.0.6
+gunicorn
+spacy==2.3.5
+nltk~=3.7
+pandas~=1.4.1
+docx2txt~=0.8
